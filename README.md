@@ -12,4 +12,4 @@ A suite of neural network models were meticulously evaluated, beginning with a b
 
 This paper will present a detailed account of the experiment design, model selection, preprocessing and augmentation pipeline, and the comprehensive evaluation of these neural networks. The objective is not merely to showcase the superiority of one model over another but to derive insightful correlations between architecture nuances and the quality of object classification, underpinned by empirical evidence garnered from a series of controlled experiments.
 
-#### Read the full report at : https://www.linkedin.com/posts/moin-khatri_project-report-activity-7191449863056723968-3hH2?utm_source=share&utm_medium=member_desktop
+#### Read the full report at : https://www.linkedin.com/posts/moin-khatri_project-report-activity-7191459762545246208-yAo_?utm_source=share&utm_medium=member_desktop
